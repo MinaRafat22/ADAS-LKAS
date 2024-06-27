@@ -15,8 +15,8 @@ This project aims to detect lane lines and correct vehicle drift using a YOLO ob
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/MinaRafat22/ADAS-LKAS
+    cd ADAS-LKAS
     ```
 
 2. **Install the required libraries:**
