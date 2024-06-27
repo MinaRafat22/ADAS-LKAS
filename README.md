@@ -2,7 +2,8 @@
 # Lane Detection and Drift Correction with YOLO and Kinect
 
 This project aims to detect lane lines and correct vehicle drift using a YOLO object detection model and a Kinect sensor for depth and color streaming. The system provides visual feedback on lane keeping and suggests corrective actions if the vehicle is drifting out of the lane.
-
+## Video Demo
+[Watch the video](Lanes_Seg.mp4)
 ## Requirements
 
 - Python 3.x
@@ -101,9 +102,11 @@ This project aims to detect lane lines and correct vehicle drift using a YOLO ob
 ## Quitting
 
 - Press `q` to quit the application.
+## Contributors
+
+- [Mahetab Adel](https://github.com/MahetabAdel23)
 
 ## Notes
-
 - Ensure that the Kinect sensor is properly connected and calibrated.
 - Adjust the parameters as needed to fit your specific use case and environment.
 
