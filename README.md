@@ -107,7 +107,3 @@ This project aims to detect lane lines and correct vehicle drift using a YOLO ob
 - Ensure that the Kinect sensor is properly connected and calibrated.
 - Adjust the parameters as needed to fit your specific use case and environment.
 
-## License
-
-This project is licensed under the MIT License.
-
